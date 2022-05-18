@@ -14,24 +14,22 @@ Local businesses needed a way to drive customer traffic to their location
 
 ## **The Challenge**
 
-Develop a custom machine learning model that deliver personlized ads based on voice intent
+Develop a machine learning model that delivers personalized ads based on voice intent
 
 ## The Solution
 
 System Stack Used:
 
-- Input with **[Messages API](https://docs.enklu.com/docs/API/Messages)**
-- Interfacing through **[Hands API](https://docs.enklu.com/docs/API/Hand)** and **[Spatial Artificial Intelligence API](https://docs.enklu.com/docs/API/App#sai-object)**
-- Training with **[Spatial Artificial Intelligence](https://docs.enklu.com/docs/API/App#sai-object)**
-- Scripted in **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
+- Actions with **[Google Assistant](https://docs.enklu.com/docs/API/Messages](https://assistant.google.com/)**
+- Voice Intents with **[DialogFlow](https://docs.enklu.com/docs/API/Messages](https://cloud.google.com/dialogflow/docs)**
 
 ## **The Results**
 
-Shelter managers are able to update the bus stop billboard remotely from their mobile phone
+Business owners can create personalized ads based on customer intent segment
 
 ## The Opportunity
 
-Add support for medicial facilities including mental treatment
+Add support for event based ads
 
 </p>
 </details>
