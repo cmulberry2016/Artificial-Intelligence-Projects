@@ -20,8 +20,8 @@ Develop a machine learning model that delivers personalized ads based on voice i
 
 System Stack Used:
 
-- Actions with **[Google Assistant](https://docs.enklu.com/docs/API/Messages](https://assistant.google.com/)**
-- Voice Intents with **[DialogFlow](https://docs.enklu.com/docs/API/Messages](https://cloud.google.com/dialogflow/docs)**
+- Actions with **[Google Assistant](https://assistant.google.com/)**
+- Voice Intents with **[DialogFlow](https://cloud.google.com/dialogflow/docs)**
 
 ## **The Results**
 
